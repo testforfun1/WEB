@@ -1,6 +1,8 @@
+会话管理与验证机制有着紧密相连的关系
+
 会话介绍：
 会话可简单理解为：用户开一个浏览器，点击多个超链接，访问服务器多个web资源，然后关闭浏览器，整个过程称之为一个会话。
-保存会话数据，3种web会话管理的方式：Cookie、Session、Token
+保存会话数据，3种web会话管理的方式：Cookie、Session、Token；另外，有些公司也存在AK/SK认证
 参见链接介绍：
 http://www.cnblogs.com/lyzg/p/6067766.html
 
